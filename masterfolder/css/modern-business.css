@@ -9,11 +9,22 @@
 html,
 body {
     height: 100%;
+    background-color: #b42929 !important;
 }
 
 body {
     padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
+
+h1,
+h2,
+h3,
+ol,
+ul{
+  color: #fff;
+}
+
+
 
 .img-portfolio {
     margin-bottom: 30px;
