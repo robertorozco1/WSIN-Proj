@@ -23,8 +23,13 @@ ol,
 ul{
   color: #fff;
 }
-
-
+/* override panel/panel-default background color*/
+.panel-or {
+  background-color: inherit;
+}
+.txt-on-white {
+  background-color: rgba(188,191,185,0.6);
+}
 
 .img-portfolio {
     margin-bottom: 30px;
@@ -37,7 +42,7 @@ ul{
 /* Home Page Carousel */
 
 header.carousel {
-    height: 50%;
+    height: 40%;
 }
 
 header.carousel .item,
