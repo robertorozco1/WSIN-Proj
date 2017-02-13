@@ -18,6 +18,7 @@ body {
 
 h1,
 h2,
+h3,
 ol,
 ul{
   color: #fff;
@@ -108,13 +109,4 @@ footer {
     header.carousel .carousel {
         height: 70%;
     }
-}
-
-#topnavbar {
-    margin: 0;
-}
-#topnavbar.affix {
-    position: fixed;
-    top: 0;
-    width: 100%;
 }
